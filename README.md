@@ -1,6 +1,9 @@
 # demo-dotnetcore-graphql
 Demonstração de implementação de graphql server com .net 
 
+Para acessar: https://localhost:56307/graphql/
+
+
 ## Exemplo de mutação para add.
 
 ```
